@@ -1,1 +1,1 @@
-prompt(here comes JS-Foo);
+prompt("here comes JS-Foo");
