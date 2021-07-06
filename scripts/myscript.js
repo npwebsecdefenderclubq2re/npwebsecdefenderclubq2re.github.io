@@ -1,1 +1,1 @@
-prompt(1);
+prompt(here comes JS-Foo);
